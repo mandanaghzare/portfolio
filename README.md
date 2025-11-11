@@ -72,7 +72,7 @@ A modern **full-stack developer portfolio** built with **React**, **TypeScript**
 **Mandana Zare**  
 Frontend Developer | React, TypeScript, Node.js  
 📧 mandana.ghz.1991@gmail.com  
-🔗 [GitHub](https://github.com/mandanaghzare) · [LinkedIn](#)
+🔗 [GitHub](https://github.com/mandanaghzare) · [LinkedIn](https://www.linkedin.com/in/mandana-zare)
 
 ---
 

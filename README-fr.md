@@ -72,7 +72,7 @@ Un **portfolio moderne de développeuse full-stack**, conçu avec **React**, **T
 **Mandana Zare**  
 Développeuse Frontend | React, TypeScript, Node.js  
 📧 mandana.ghz.1991@gmail.com  
-🔗 [GitHub](https://github.com/mandanaghzare) · [LinkedIn](#)
+🔗 [GitHub](https://github.com/mandanaghzare) · [LinkedIn](https://www.linkedin.com/in/mandana-zare)
 
 ---
 
