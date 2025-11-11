@@ -66,9 +66,9 @@ const Projects: React.FC = () => {
       <div
         className="
           relative z-10 w-full 
-          flex lg:grid lg:grid-cols-3 lg:gap-10 
+          flex lg:grid lg:grid-cols-4 lg:gap-10 
           gap-6 overflow-x-auto overflow-y-hidden lg:overflow-visible scrollbar-hide 
-          snap-x snap-mandatory px-6 sm:px-60 pb-12 justify-start lg:justify-center
+          snap-x snap-mandatory px-6 sm:px-30 pb-12 justify-start lg:justify-center
         "
         style={{ scrollBehavior: "smooth" }}
       >
