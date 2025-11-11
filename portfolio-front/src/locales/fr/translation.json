@@ -1,0 +1,55 @@
+{
+  "home": {
+    "title": "Bonjour! C'est Mandana",
+    "description": "Développeuse front-end passionnée par le design et le code",
+    "seeWork": "Voir mes projets",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "description": "Je suis une développeuse full-stack passionnée par la création d’applications rapides, modernes et élégantes avec TypeScript, React et Node.js. Je conçois des expériences numériques fluides alliant créativité, code propre et technologies de pointe. Au-delà du code, je suis motivée par le design, la stratégie et l’innovation. Je crois que chaque ligne de code doit servir à la fois la fonctionnalité et l’émotion. Mon objectif est de construire des produits significatifs qui simplifient la vie des gens, tout en la rendant plus intelligente — grâce à une technologie qui reste profondément humaine."
+  },
+  "projects": {
+    "title": "Mes projets",
+    "subtitle": "Réalisations récentes, outils modernes"
+  },
+  "services": {
+    "title": "Ce que je fais",
+    "description": "Voici les services que je propose en tant que développeuse full-stack :",
+    "list": {
+      "frontend": "Développement front-end (React, Next.js, TypeScript)",
+      "backend": "APIs back-end (Node.js, Express, Prisma)",
+      "auth": "Authentification & Autorisation (JWT, OAuth)",
+      "responsive": "Conception web responsive",
+      "seo": "Optimisation SEO et performance",
+      "support": "Maintenance et Assistance"
+    },
+    "details": {
+      "frontend": "Interface moderne et rapide.",
+      "backend": "APIs sûres et performantes.",
+      "auth": "Contrôle d’accès avancé.",
+      "responsive": "Design adaptable à tous.",
+      "seo": "Vitesse et référencement optimisés.",
+      "support": "Mises à jour et suivi."
+    }
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "subtitle": "Contacte-moi pour une collaboration ✨",
+    "name": "Votre nom",
+    "email": "Votre e-mail",
+    "message": "Votre message",
+    "send": "Envoyer",
+    "sending": "Envoi de votre message...",
+    "success": "Message envoyé avec succès ! ✨",
+    "error": "Oups ! Une erreur est survenue 😢"
+  },
+  "nav": {
+    "Hero": "Accueil",
+    "About": "À propos",
+    "Projects": "Projets",
+    "Services": "Services",
+    "Contact": "Contact"
+  },
+  "rotateMessage": "Veuillez tenir votre appareil verticalement 📱"
+}

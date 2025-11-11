@@ -1,0 +1,55 @@
+{
+  "home": {
+    "title": "Hello! This is Mandana",
+    "description": "Frontend developer passionate about design and coding",
+    "seeWork": "See My Work",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Beyond the code, I’m driven by design, strategy, and innovation. I believe every line of code should serve both functionality and emotion. My goal is to build meaningful products that make people’s lives easier and smarter — powered by technology that feels human."
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Modern tools, clean code"
+  },
+  "services": {
+    "title": "What I Do",
+    "description": "Here are the services I offer as a full-stack developer:",
+    "list": {
+      "frontend": "Frontend Development (React, Next.js, TypeScript)",
+      "backend": "Backend APIs (Node.js, Express, Prisma)",
+      "auth": "Authentication & Authorization (JWT, OAuth)",
+      "responsive": "Responsive Web Design",
+      "seo": "SEO & Performance Optimization",
+      "support": "Maintenance & Support"
+    },
+    "details": {
+      "frontend": "Modern, fast UI design.",
+      "backend": "Secure and scalable APIs.",
+      "auth": "Advanced access control.",
+      "responsive": "Adaptive layouts for all.",
+      "seo": "Optimized speed and ranking.",
+      "support": "Continuous updates & care."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Feel free to reach out for collaboration ✨",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "send": "Send Message",
+    "sending": "Sending your message...",
+    "success": "Message sent successfully! ✨",
+    "error": "Oops! Something went wrong 😢"
+  },
+  "nav": {
+    "Hero": "Home",
+    "About": "About",
+    "Projects": "Projects",
+    "Services": "Services",
+    "Contact": "Contact"
+  },
+  "rotateMessage": "Please rotate your device vertically 📱"
+}
