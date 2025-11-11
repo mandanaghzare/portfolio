@@ -1,4 +1,11 @@
 # 🌐 Mandana Full-Stack Portfolio  
+
+[🇬🇧 English](README.md) | [🇫🇷 Français](README-fr.md)
+
+---
+
+A modern **full-stack developer portfolio** built with **React**, **TypeScript**, **TailwindCSS**, **Framer Motion**, **Express**, and **Prisma** — designed to showcase my technical expertise, creativity, and passion for clean code.
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 

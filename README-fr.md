@@ -1,4 +1,11 @@
 # 🌐 Portfolio Full-Stack — Mandana Zare  
+
+[🇬🇧 English](README.md) | [🇫🇷 Français](README-fr.md)
+
+---
+
+Un **portfolio moderne de développeuse full-stack**, conçu avec **React**, **TypeScript**, **TailwindCSS**, **Framer Motion**, **Express** et **Prisma** — pour mettre en avant mes compétences techniques, ma créativité et ma passion pour le code propre.
+
 ![Statut](https://img.shields.io/badge/statut-actif-brightgreen)
 ![Licence](https://img.shields.io/badge/licence-MIT-blue)
 
